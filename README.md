@@ -1,13 +1,11 @@
-<h1 align="center">Sup m8 PabloMikes here</h1>
-<h3 align="center">Unemployed hacker from your basement.</h3>
+<h1 align="center"> PabloMikes overview</h1>
+<h3 align="center"> Safety specialist fr</h3>
 
-- 💀 I’m currently working on **sleep schedule status: not gut**
+- I’m currently working on a small casino
 
-- 🐀 I’m currently learning **js, java**
+- 🐀 Learning **js, java, Unity**
 
-- 💬 Ask me! **but i won't respond...**
-
-- ⚡ Fun fact **Romanians are faster than bacteria**
+- ⚡ Fun fact **Two cats are better than one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
