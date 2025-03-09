@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **js, java, unity**
 
-- 📫 How to reach me **sefpaja@seznam.cz**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/pavel-mík-3b711129b/](https://www.linkedin.com/in/pavel-mík-3b711129b/)
 
 - ⚡ Fun fact **Two cats are better than one**
